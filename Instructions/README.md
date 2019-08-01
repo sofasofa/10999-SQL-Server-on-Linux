@@ -16,7 +16,7 @@ Demos and labs in this module use Linux virtual machines in Azure. You connect t
 4. Right-click **10999A-MIA-SQL**, and then click **Connect**.
 5. Log in as **ADEVENTUREWORKS\Student** with the password **Pa55w.rd**.
 
-### Install PuTTY on the LON-DEV VM
+### Install PuTTY on the MIA-SQL VM
 
 1. Start a web browser, go to **http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html**.
 2. Under **Alternative binary files**, download **putty.exe**, and **pscp.exe**; saving it to a suitable folder in the **10999A-MIA-SQL** file system (for example, **C:\putty**).
